@@ -1,4 +1,4 @@
-import 'package:bottom_navigation_bar/home_screen.dart';
+import 'package:bottom_navigation_bar/homeScreen/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
